@@ -106,7 +106,7 @@ else
   "
   Plugin 'scrooloose/nerdtree'
   Plugin 'majutsushi/tagbar'
-
+  Plugin 'airblade/vim-rooter'
   "
   " Languages
   "
